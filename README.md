@@ -11,4 +11,6 @@
 <ul><li> Download source </li></ul>
 <ul><li>Database</li></ul>
 <ul><li>Sử dụng Eclipse IDE for Enterprise Java and Web Developers - 2022- 03 </li></ul>
+<ul><li> BaoCao_WebBanQuanAo.docx</li></ul>
+ https://github.com/anhtn040/LapTrinhWeb/files/10966892/BaoCao_WebBanQuanAo.docx 
 
